@@ -2,7 +2,7 @@
 This script will make a backup of your inputBindings.xml from Farming Simulator 22 in a safe place of your choosing, and then set the existing file to read-only so that it cannot be overwritten by Farming Simulator 22 after mod changes. If the file is already read-only (aka you've already run the script), then running the script again will set the file back to read/write in case you need to make modifications.
 
 # Download
-Script can be found [here](https://github.com/tm24fan8/Farm-Sim-Scripts/releases)
+Script can be found [here](https://github.com/tm24fan8/Farm-Sim-Scripts/releases) and you can save it wherever you'd like
 
 # Instructions
 - First, go into Farming Simulator 22 and set up ALL your keybinds the way you want them...this includes for keyboard/mouse and all controllers you want to use.
